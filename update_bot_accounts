@@ -1,21 +1,33 @@
 #!/bin/env php
 <?php
 
-$URL  = "https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/mainDB";
-
-# update DB
-$st = file_get_contents($URL);
 ob_start();
-$st = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2'},", $st);
-$st = preg_replace('/ \(/', "', comment: '(", $st);
+
+# mainDB
+$st1 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/mainDB');
+$st1 = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2'},", $st1);
+$st1 = preg_replace('/ \(/', "', comment: '(", $st1);
+
+# smm
+$st2 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/smm_all.txt');
+$st2 = substr($st2, strpos($st2, "\n"));
+$st2 = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2'},", $st2);
+$st2 = preg_replace('/ #/', "', comment: 'СММ #", $st2);
+
+# Аркатоботы
+$st3 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/arkatov_bots.txt');
+$st3 = substr($st3, strpos($st3, "\n"));
+$st3 = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2', comment: 'Аркатобот'},", $st3);
+
 echo
 "/**
  * @updated ".date('H:i:s d.m.Y')."
- * @source $URL\n */\n\nvar BOT_ACCOUNTS = {
-$st}\n";
+ * @source https://github.com/YTObserver/YT-ACC-DB\n */\n\nvar BOT_ACCOUNTS = {
+$st1
+$st2
+$st3
+}\n";
 file_put_contents('bot_accounts.js', ob_get_clean());
-
-#-	| sed -r "s/(.+)=(.+)\r/'\1': {date_rus:'\2'},/" \
 
 # bump version
 $st = file_get_contents($fname = 'manifest.json');
