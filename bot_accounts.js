@@ -1,5 +1,5 @@
 /**
- * @updated 10:43:28 09.08.2018
+ * @updated 06:23:44 16.08.2018
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -1566,6 +1566,14 @@ var BOT_ACCOUNTS = {
 'UCTcH3rvWcgZgZxQ0hErcBjA': {date_rus:'17 марта 2018'},
 'UC2qAfiv-oQ5poOLRmjC1ybg': {date_rus:'29 июля 2018'},
 'UCBmi5CO2HfN2zvoFTmDj_Yg': {date_rus:'29 июля 2018'},
+'UCd2VX4xJ6lwBM-P5kLTYBAg': {date_rus:'14 июля 2018'},
+'UClCOs6KkTEQM3er5fgSFr1A': {date_rus:'3 августа 2018'},
+'UC7QCETm533TCCl5Wm3Kn8ig': {date_rus:'3 августа 2018'},
+'UCIb_dofjC-lDIZeh4rZV5DA': {date_rus:'14 июля 2018'},
+'UCJx0T-XDnFr6icN4VrbKNtQ': {date_rus:'14 июля 2018'},
+'UCF29q9IXuAeq_vtlIX9cjvA': {date_rus:'1 апреля 2018'},
+'UCYl8nojZYpNSZ30nGGVyrAg': {date_rus:'17 июля 2017'},
+'UCY35ua87nZIBRvR9QtxlSww': {date_rus:'22 июля 2018'},
 
 
 'UCLlwv6zNyhg9neqbio2PaRA': {date_rus:'22 Sep, 2016', comment: 'СММ #1'},
