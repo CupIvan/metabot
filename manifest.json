@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "MetaBot - подсветка ботов в комментариях",
-	"version": "1.3.4",
+	"version": "1.3.5",
 	"author": "CupIvan <mail@cupivan.ru>",
 	"default_locale": "ru",
 	"description": "Подсвечивает ботов под роликами YouTube, которые меняют общественное мнение. Работает по базам #ЕРКЮ.",
