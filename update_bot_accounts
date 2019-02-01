@@ -48,13 +48,8 @@ if (preg_match('/("version\D*)([\d\.]+)/', $st, $m))
 	file_put_contents($fname, $st_);
 
 	# repack for chrome store
-	passthru('mv manifest.json manifest.bak');
-	passthru('cat manifest.bak | awk \'! /update_url/ { print $0 }\' > manifest.json');
-	passthru('7z a ../metabot.zip manifest.json metabot.js bot_accounts.js');
-	passthru('mv manifest.bak manifest.json');
-	# repack crx-extension
-	passthru('cd ..; chromium --pack-extension=metabot --pack-extension-key=metabot.pem; mv metabot.crx metabot');
-	echo "https://chrome.google.com/webstore/developer/edit/johgopighfejmkgpcdpabglafmbckgio";
+	passthru('./update_extension');
+
 	# git commit
 	passthru('git add metabot.crx updates.xml manifest.json bot_accounts.js; git commit -m "'.NEW_VERSION.' - обновление базы"');
 	passthru('git push');
