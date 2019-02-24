@@ -2,7 +2,7 @@
 
 mv manifest.json manifest.bak
 cat manifest.bak | awk '! /update_url/ { print $0 }' > manifest.json
-7z a ../metabot.zip manifest.json metabot.js bot_accounts.js _locales
+7z a ../metabot.zip manifest.json metabot.js bot_accounts.js icon128.png _locales
 mv manifest.bak manifest.json
 
 # repack crx-extension
