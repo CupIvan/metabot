@@ -1,5 +1,5 @@
 /**
- * @updated 10:34:16 14.03.2019
+ * @updated 12:03:33 18.03.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -2440,6 +2440,20 @@ var BOT_ACCOUNTS = {
 'UCl5JeXhKMFb7qqqSQpOZ7nQ': {date_rus:'2 декабря 2018 [пп]'},
 'UClI9zqB7_UEalPbmUb7mfqA': {date_rus:'? марта 2019 [ап]'},
 'UC3V3u4HpuBMpORE-kGudj_w': {date_rus:'14 декабря 2011 [ап]', comment: '(?)'},
+'UC__DfKdSdLs_-lk47C9ZQDw': {date_rus:'1 сентября 2018 [ап]'},
+'UC_ZTDhkoxCLYjIqL-Jvfm3w': {date_rus:'1 сентября 2018 [ап]'},
+'UCrUu9B-89pPtWvzXGLT5XLQ': {date_rus:'1 сентября 2018 [ап]'},
+'UCUed-mgfJCksFCmjPoCUTrw': {date_rus:'5 ноября 2018 [ап]'},
+'UCCwhaoBWrn5HAE7cpp5pWpA': {date_rus:'1 сентября 2018 [ап]'},
+'UCjmtjUxUIi-y8X9U-to3BsA': {date_rus:'1 сентября 2018 [ап]'},
+'UCh9wkkqP1kOhGoB-zvSuEHw': {date_rus:'1 сентября 2018 [ап]'},
+'UC4CkcokNnFtTeXoJtd1j90w': {date_rus:'1 сентября 2018 [ап]'},
+'UCppbjsAyVrAQ3hIHkWE6yrw': {date_rus:'1 сентября 2018 [ап]'},
+'UCdPLZ6DsksViWG31pl6sqTg': {date_rus:'1 сентября 2018 [ап]'},
+'UCNpBQoVueTYiEYy2SuQ30dQ': {date_rus:'1 сентября 2018 [ап]'},
+'UC6RTzXciru7JS6KJ5TGPVhA': {date_rus:'28 декабря 2018 [ап]'},
+'UCyde673jX7euZFnFjqg-uvg': {date_rus:'15 марта 2019 [ап]'},
+'UCXqVOziUZgUcwLKRRAerS5A': {date_rus:'30 июля 2018 [сп]'},
 
 
 'UCLlwv6zNyhg9neqbio2PaRA': {date_rus:'22 Sep, 2016', comment: 'СММ #1'},
