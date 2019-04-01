@@ -1,5 +1,5 @@
 /**
- * @updated 09:05:26 25.03.2019
+ * @updated 10:19:44 01.04.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -34,7 +34,7 @@ var BOT_ACCOUNTS = {
 'UCqSFd9ND2AmvUcHB1DcKa5w': {date_rus:'22 февраля 2017 [ап]'},
 'UCK_2nbRsQlrDNVu6q2N3GqA': {date_rus:'22 февраля 2017 [ап]'},
 'UC5MhIFZrov_eRSGdip1AU8g': {date_rus:'22 февраля 2017 [ап]'},
-'UCSx7QTLyxp9fQJNErYC1vuQ': {date_rus:'22 февраля 2017 [ап]', comment: '(в отставке?)'},
+'-UCSx7QTLyxp9fQJNErYC1vuQ': {date_rus:'22 февраля 2017 [ап]', comment: '(в отставке?)'},
 'UCuX-LwYgZrMHLiRYAhGxvuQ': {date_rus:'22 февраля 2017 [ап]'},
 'UCz1YbFEqMSVWGJjfqbzVmOw': {date_rus:'22 февраля 2017 [ап]'},
 'UCH0HA0zajWS58-AE5DppbcA': {date_rus:'22 февраля 2017 [ап]'},
@@ -2475,6 +2475,28 @@ var BOT_ACCOUNTS = {
 'UCKQn-yd3W51-HqtigXMy1bA': {date_rus:'19 июня 2017 [ап]'},
 'UCb2o0PrwcN6XVtTHClO9nMA': {date_rus:'22 февраля 2019 [ап]'},
 'UC7TbQ1gvjxe1cXaTz7SvGFg': {date_rus:'22 февраля 2019 [ап]'},
+'UCwqBx89NNbKJl9rllJmTxsQ': {date_rus:'11 декабря 2018 [ап]'},
+'UCgEzuatsNdNTAXNDa75HWUw': {date_rus:'28 января 2019 [ап]'},
+'UCYrN3Y8nWgX3CFabt-XEGSg': {date_rus:'28 января 2019 [ап]'},
+'UCOOwK_0tNDY-2-4fxjPlppA': {date_rus:'7 марта 2019 [ап]'},
+'UC8orFKZpZjiI2YR5RE9mPLQ': {date_rus:'7 марта 2019 [ап]'},
+'UCWom2rkQrRm2fh599Z2rIxQ': {date_rus:'30 июля 2018 [сп]'},
+'UCn29qdC5fvEnSLPiLU9Drcw': {date_rus:'23 февраля 2018 [сп]'},
+'UCW5jFdTGHeGIFjGzi7_80eA': {date_rus:'9 декабря 2018 [ап]'},
+'UC7JETXPxvWSS_Fg9MQsVA7Q': {date_rus:'28 марта 2019 [ап]'},
+'UCOIGiTY2CEScx2CD-CbpIWw': {date_rus:'28 марта 2019 [ап]'},
+'UCvg1z9hfMEMhtzWctNbKFVQ': {date_rus:'1 сентября 2018 [ап]'},
+'UCV9gjPC1u0EdX7sij31AfVA': {date_rus:'1 сентября 2018 [ап]'},
+'UCKG9IacZVRbAXixGuw1abeQ': {date_rus:'28 марта 2019 [ап]'},
+'UCZzMlsBrbrPd8OEtv5CwABA': {date_rus:'28 марта 2019 [ап]'},
+'UCS9hbGLlciCH1Fz9ocfA2NQ': {date_rus:'15 марта 2019 [ап]'},
+'UCnm2dEYQJXIA3cPtswcv1Yg': {date_rus:'27 сентября 2018 [ап] [*]'},
+'UCZgmoCQPJkHJM2rQ2xGXvQw': {date_rus:'1 сентября 2018 [ап]'},
+'UCK7kGocbci9m0HBss3GA16A': {date_rus:'28 марта 2019 [ап]'},
+'UCWj61dZJazvj5lM8Dl1f9eQ': {date_rus:'1 сентября 2018 [ап]'},
+'UCgMheJ2MqbS5QhkPQ12iEEQ': {date_rus:'1 сентября 2018 [ап]'},
+'UC5kuLD8lZyb58mYUaYqTw0Q': {date_rus:'1 сентября 2018 [ап]'},
+'UC3m29qkWLOPonHm_DB5sCiQ': {date_rus:'1 сентября 2018 [ап]'},
 
 
 'UCLlwv6zNyhg9neqbio2PaRA': {date_rus:'22 Sep, 2016', comment: 'СММ #1'},
