@@ -1,5 +1,5 @@
 /**
- * @updated 10:19:44 01.04.2019
+ * @updated 09:03:02 05.04.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -34,7 +34,7 @@ var BOT_ACCOUNTS = {
 'UCqSFd9ND2AmvUcHB1DcKa5w': {date_rus:'22 февраля 2017 [ап]'},
 'UCK_2nbRsQlrDNVu6q2N3GqA': {date_rus:'22 февраля 2017 [ап]'},
 'UC5MhIFZrov_eRSGdip1AU8g': {date_rus:'22 февраля 2017 [ап]'},
-'-UCSx7QTLyxp9fQJNErYC1vuQ': {date_rus:'22 февраля 2017 [ап]', comment: '(в отставке?)'},
+'UCSx7QTLyxp9fQJNErYC1vuQ-': {date_rus:'22 февраля 2017 [ап]', comment: '(в отставке?)'},
 'UCuX-LwYgZrMHLiRYAhGxvuQ': {date_rus:'22 февраля 2017 [ап]'},
 'UCz1YbFEqMSVWGJjfqbzVmOw': {date_rus:'22 февраля 2017 [ап]'},
 'UCH0HA0zajWS58-AE5DppbcA': {date_rus:'22 февраля 2017 [ап]'},
@@ -2497,6 +2497,32 @@ var BOT_ACCOUNTS = {
 'UCgMheJ2MqbS5QhkPQ12iEEQ': {date_rus:'1 сентября 2018 [ап]'},
 'UC5kuLD8lZyb58mYUaYqTw0Q': {date_rus:'1 сентября 2018 [ап]'},
 'UC3m29qkWLOPonHm_DB5sCiQ': {date_rus:'1 сентября 2018 [ап]'},
+'UC-vPGvTYDBF8fWsKuAV5S-w': {date_rus:'1 сентября 2018 [ап]'},
+'UCeyBXDyKP8FdHu8kH9AQNDw': {date_rus:'29 марта 2019 [ап]'},
+'UCbEjZKW_tAu6rvCuXb20XDg': {date_rus:'29 марта 2019 [ап]'},
+'UCNaZO0lshPQa9iyZZ6dSeRQ': {date_rus:'29 марта 2019 [ап]'},
+'UCrjtnB-xtXKX9j5hihnPfbA': {date_rus:'29 марта 2019 [ап]'},
+'UCoDGCYhh9vKKhyd7rpvPXhQ': {date_rus:'28 июня 2017 [ап]'},
+'UC7EOdqnGXUoZxBBgvIcOLSg': {date_rus:'12 июля 2017 [ап]'},
+'UCVGNbF0kAGoLmABSPU1TmdA': {date_rus:'18 сентября 2017 [ап]'},
+'UCE-4KB3xAYnNQ6hGAMnSlzQ': {date_rus:'24 сентября 2017 [ап]'},
+'UCg5bujxQa3DzhEhRbzktZ4g': {date_rus:'27 сентября 2017 [ап]'},
+'UClNSZ_AwINbGdHtUFrbatHQ': {date_rus:'3 ноября 2017 [ап]'},
+'UCnEg-uOLVx1mkLrUlVgyRPQ': {date_rus:'10 декабря 2017 [ап]'},
+'UCLpYVj0S2P_Ohk58nbBwzyQ': {date_rus:'10 декабря 2017 [ап]'},
+'UCG0i28tdJkdbPtJdayTFQ3Q': {date_rus:'12 декабря 2017 [ап]'},
+'UCzTopRurEQJpXNzKxs-BYFQ': {date_rus:'13 февраля 2018 [ап]'},
+'UC3HzhHqtSEwI3y6PjNmVTRA': {date_rus:'24 мая 2018 [ап]'},
+'UCsiXUkRFgvCgNLkpuvIgTwg': {date_rus:'31 мая 2018 [ап]'},
+'UCB-cq7iv7TBZuW5Usvk-ZAg': {date_rus:'23 июня 2018 [ап]'},
+'UCSFcn7lLS4SRuoiyY0ehOwg': {date_rus:'1 апреля 2019 [ап]'},
+'UC-oHsMfm3ZxF31IRSWf4nsQ': {date_rus:'1 апреля 2019 [ап]'},
+'UCBu9Jf_UCz18ZJiDiyQPLnw': {date_rus:'20 сентября 2014 [ап] [*]'},
+'UCkZjkkUtcuaRjlqRmeHjOXg': {date_rus:'1 апреля 2019 [ап]'},
+'UCI757R1kITAyGfLAqQ1Kyiw': {date_rus:'31 марта 2019 [ап]'},
+'UCAINSnL_I2uiFjh3fduKeBQ': {date_rus:'4 июня 2018 [ап]'},
+'UCNMZsV6PEOlZdiVdfZjWwNg': {date_rus:'9 марта 2019 [ап]'},
+'UCPeucT0LGB5J1ZOtOu6Xqsw': {date_rus:'9 марта 2019 [ап]'},
 
 
 'UCLlwv6zNyhg9neqbio2PaRA': {date_rus:'22 Sep, 2016', comment: 'СММ #1'},
