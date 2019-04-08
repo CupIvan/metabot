@@ -26,7 +26,7 @@ function tick()
 			if (x) a[i].innerHTML += ' [БОТ]'
 			a[i].style.color = 'red'
 			a[i].title = 'Дата регистрации: ' + BOT_ACCOUNTS[x].date_rus;
-			
+
 			// контейнер комментария
 			t = a[i]; while (t.id != 'main') t = t.parentNode
 			t.className += ' is_bot'
@@ -36,6 +36,9 @@ function tick()
 			t.innerHTML = '<a href="/results?search_query=ЕРКЮ">#ЕРКЮ</a>'
 				+ ' —﻿ <span onclick="this.parentNode.querySelector(\'div\').style.display=\'block\'" title="Нажми, чтобы посмотреть" style="cursor: pointer">комментарий бота спрятан...</span>'
 				+ '<div class="bot_text">' + t.innerHTML + '</div>'
+		} else
+		{
+			if (x) a[i].innerHTML += ' <small style="color: #090" title="В базе ботов не обнаружено">[OK]</small>'
 		}
 
 		a[i].dataset.mt_is_upd = 1
