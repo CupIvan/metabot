@@ -1,5 +1,5 @@
 /**
- * @updated 09:03:02 05.04.2019
+ * @updated 08:10:30 08.04.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -2523,6 +2523,26 @@ var BOT_ACCOUNTS = {
 'UCAINSnL_I2uiFjh3fduKeBQ': {date_rus:'4 июня 2018 [ап]'},
 'UCNMZsV6PEOlZdiVdfZjWwNg': {date_rus:'9 марта 2019 [ап]'},
 'UCPeucT0LGB5J1ZOtOu6Xqsw': {date_rus:'9 марта 2019 [ап]'},
+'UCA2Rt1Vbphm9YX26z39ioSw': {date_rus:'2 апреля 2019 [ап]'},
+'UColVJcC1Rp0h_V69qxHYIjA': {date_rus:'2 апреля 2019 [ап]'},
+'UCFOC-UJfECnnEsVIvgZaCkQ': {date_rus:'2 апреля 2019 [ап]'},
+'UCze56KTDwv8mfMGbQTaaiww': {date_rus:'2 апреля 2019 [ап]'},
+'UCUqptLSGzRbE5IQOxUMMCdQ': {date_rus:'4 апреля 2019 [ап]'},
+'UCsmM_-r7WRZRAoReMgAXhwg': {date_rus:'19 августа 2011 [ап] [*]'},
+'UCkUJPu4ME2DETKdJApzA6fw': {date_rus:'2 апреля 2019 [ап]'},
+'UC0iaxXyoGdNvWOjA3Q0skvA': {date_rus:'2 ноября 2018 [ап]'},
+'UCb_XooF9lLhtbNc20dossSQ': {date_rus:'2 ноября 2018 [ап]'},
+'UCOxC0S8wUFFKHMEfPuzN8Pg': {date_rus:'2 ноября 2018 [ап]'},
+'UC90YkCKnmpFUJM61o2FyBTQ': {date_rus:'2 апреля 2019 [ап]'},
+'UCT_FIZS_1QiESFO4sABBbAQ': {date_rus:'2 апреля 2019 [ап]'},
+'UCDBpjVVa9arydnFNUiFlqfA': {date_rus:'2 апреля 2019 [ап]'},
+'UCPNTs_kVlhGB8P3vSd1BxKA': {date_rus:'11 декабря 2018 [ап]'},
+'UCjUx1gKT6JpFUSCTb8nMSVw': {date_rus:'2 апреля 2019 [ап]'},
+'UCX4fukJRMbJYGVUXLMwCTSg': {date_rus:'4 марта 2019 [ап]'},
+'UCiYIv4VR3n4_-mhY1A3-NMg': {date_rus:'22 февраля 2019 [ап]'},
+'UCuGpjJT1PCyvQSJDgjwXuXQ': {date_rus:'4 июня 2018 [ап]'},
+'UCVDIqaq6BhZkNEj_jOuNlsQ': {date_rus:'4 апреля 2019 [ап]'},
+'UCW7ECioQVCfK8gkk9tPyrkA': {date_rus:'2 апреля 2019 [ап]'},
 
 
 'UCLlwv6zNyhg9neqbio2PaRA': {date_rus:'22 Sep, 2016', comment: 'СММ #1'},
