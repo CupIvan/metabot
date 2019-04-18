@@ -5,19 +5,18 @@ ob_start();
 
 # mainDB
 $st1 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/mainDB');
-$st1 = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2'},", $st1);
-$st1 = preg_replace('/ \(/', "', comment: '(", $st1);
+$st1 = preg_replace('/(.+)=(.+?)\s*\[(.+)\].*/', "'$1': {date_rus:'$2', comment: '$3'},", $st1);
 
 # smm
-$st2 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/smm_all.txt');
+$st2 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/additional_list_smm');
 $st2 = substr($st2, strpos($st2, "\n"));
 $st2 = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2'},", $st2);
 $st2 = preg_replace('/ #/', "', comment: 'СММ #", $st2);
 
-# Аркатоботы
-$st3 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/arkatov_bots.txt');
+# political
+$st3 = file_get_contents('https://raw.githubusercontent.com/YTObserver/YT-ACC-DB/master/additional_list_political');
 $st3 = substr($st3, strpos($st3, "\n"));
-$st3 = preg_replace('/(.+)=(.+)\r/', "'$1': {date_rus:'$2', comment: 'Аркатобот'},", $st3);
+$st3 = preg_replace('/(.+)=(.+?)\s*\[(.+)\].*/', "'$1': {date_rus:'$2', comment: '$3'},", $st3);
 
 echo
 "/**
