@@ -1,5 +1,5 @@
 /**
- * @updated 13:03:04 18.04.2019
+ * @updated 16:25:55 07.05.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -2567,6 +2567,39 @@ var BOT_ACCOUNTS = {
 'UC2qcPKwlV7KdCVFjoSS88ow': {date_rus:'16 апреля 2019', comment: 'АИИ'},
 'UCTqD-BnwYTartT7y2X7uDSQ': {date_rus:'9 апреля 2019', comment: 'АИИ'},
 'UCeVxYoPS9-pzMksnNogC4Ag': {date_rus:'17 апреля 2019', comment: 'АИИ'},
+'UCuxtJOsIYVeVTRPrsgisCPg': {date_rus:'17 апреля 2019', comment: 'АИИ'},
+'UCoLs-lZuiHWSy2ihahzbrSg': {date_rus:'15 апреля 2015', comment: 'АИИ] [*'},
+'UCzL-vwjgF5GSEBG6nAUKxEA': {date_rus:'3 января 2019', comment: 'АИИ'},
+'UCjs4j6heN_Sn5uKbwgHGsWQ': {date_rus:'19 апреля 2019', comment: 'АИИ'},
+'UCvxRBCa2N0EjJ5ohVO53UjA': {date_rus:'20 апреля 2019', comment: 'АИИ'},
+'UCm71Wl1CONsbMA55nzGOljw': {date_rus:'20 апреля 2019', comment: 'АИИ'},
+'UC8DYn5PbacX1wbakv7-LXkg': {date_rus:'20 апреля 2019', comment: 'АИИ'},
+'UCHrEnS0p6qL5It87ve1pfSA': {date_rus:'20 апреля 2019', comment: 'АИИ'},
+'UC4ZDWrkeo4iUUP_5hnXQ4hg': {date_rus:'22 апреля 2019', comment: 'АИИ'},
+'UCMHMCkk8ZCGYTmDJCtJhqdg': {date_rus:'19 апреля 2019', comment: 'АИИ'},
+'UCmjs1jSfomF0HT8L92in5rA': {date_rus:'23 апреля 2019', comment: 'АИИ'},
+'UCyBEQHFRHIgjQIloJossjnA': {date_rus:'23 апреля 2019', comment: 'АИИ'},
+'UCj1d-w8FQYx7fbtn9L4sr0g': {date_rus:'23 апреля 2019', comment: 'АИИ'},
+'UCIvbjiRBDuMsvNnsyiN_bEg': {date_rus:'19 апреля 2019', comment: 'АИИ'},
+'UCwPJ9Kc8qrBVjjkUvSa8ObQ': {date_rus:'23 апреля 2019', comment: 'АИИ'},
+'UCV9OmEHXX3AMYTyl-rDNUZQ': {date_rus:'15 апреля 2019', comment: '?'},
+'UCh9O-lNyJC28Mt6mVap9_hw': {date_rus:'15 апреля 2019', comment: '?'},
+'UCdFCpLgymfEIw2NdQsFU_YQ': {date_rus:'23 апреля 2019', comment: 'АИИ'},
+'UCaXyCNaQkvKLoTE_LEbQvqA': {date_rus:'21 апреля 2019', comment: 'АИИ'},
+'UCzIjCSJ7JIushGgAUR11rww': {date_rus:'22 апреля 2019', comment: 'АИИ'},
+'UCISjvbiet2UMtCzoaUjF8pQ': {date_rus:'25 апреля 2019', comment: 'АИИ'},
+'UCegaG1o7FhHtAzAr0TX8Cig': {date_rus:'25 апреля 2019', comment: 'АИИ'},
+'UCwcE0d_MNOrNZuSwSV37kCw': {date_rus:'23 сентября 2017', comment: 'АИИ'},
+'UCtqOKaeXJWKQvpd4W2WFG1g': {date_rus:'31 декабря 2017', comment: 'АИИ'},
+'UCWh-oOIy1dJ9OkHMuOhMrjw': {date_rus:'25 апреля 2019', comment: 'АИИ'},
+'UCdP5L3lMJlc89jLrehMm07A': {date_rus:'27 апреля 2019', comment: 'АИИ'},
+'UCWVi_-KZjDAf3m0RlnJdT0A': {date_rus:'27 апреля 2019', comment: 'АИИ'},
+'UC6UnR1gD_LomXzzSa35dYIw': {date_rus:'27 апреля 2019', comment: 'АИИ'},
+'UCFStwat7S0yqwhF1NoboVFw': {date_rus:'29 апреля 2019', comment: 'АИИ'},
+'UC13-aqAtiwa_HcRslN2iLwQ': {date_rus:'30 апреля 2019', comment: 'АИИ'},
+'UCjXBUfbHNnJW8mYq_mRwQ9w': {date_rus:'1 мая 2019', comment: 'АИИ'},
+'UC3i_WGwi8yy8scL3x5jK8ow': {date_rus:'3 мая 2019', comment: 'АИИ'},
+'UCviYKHZHpyCA3fCAm4HTSMg': {date_rus:'9 февраля 2019', comment: 'АИИ'},
 
 
 // биржа 1
