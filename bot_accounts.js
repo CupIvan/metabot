@@ -1,5 +1,5 @@
 /**
- * @updated 16:25:55 07.05.2019
+ * @updated 11:25:12 14.05.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -2600,6 +2600,12 @@ var BOT_ACCOUNTS = {
 'UCjXBUfbHNnJW8mYq_mRwQ9w': {date_rus:'1 мая 2019', comment: 'АИИ'},
 'UC3i_WGwi8yy8scL3x5jK8ow': {date_rus:'3 мая 2019', comment: 'АИИ'},
 'UCviYKHZHpyCA3fCAm4HTSMg': {date_rus:'9 февраля 2019', comment: 'АИИ'},
+'UCzGxQ2e3JHn8bCD2pYao1eA': {date_rus:'14 марта 2019', comment: 'ИМА'},
+'UC1y3dPnnLVHZtfgLDKg5CKQ': {date_rus:'14 марта 2019', comment: 'ИМА'},
+'UCfu3BnpcolcHsW1jgL2RSLg': {date_rus:'14 марта 2019', comment: 'ИМА'},
+'UCOUf3TuEz6S-ZiTAPIJzzYg': {date_rus:'18 марта 2019', comment: 'ИМА'},
+'UCcxhmN2mxLI0KhggbELz8cw': {date_rus:'18 марта 2019', comment: 'ИМА'},
+'UC8RYfktugTPxzdmCstt4Lsg': {date_rus:'15 апреля 2019', comment: 'ИМА'},
 
 
 // биржа 1
