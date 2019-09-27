@@ -1,5 +1,5 @@
 /**
- * @updated 10:59:21 18.09.2019
+ * @updated 09:36:07 27.09.2019
  * @source https://github.com/YTObserver/YT-ACC-DB
  */
 
@@ -2915,6 +2915,17 @@ var BOT_ACCOUNTS = {
 'UCHkVnHHh_Z6pkKlzXoAOkhA': {date_rus:'30 апреля 2019', comment: 'АИИ'},
 'UCeTPqUp4nXrZyHfRJ1OhSYQ': {date_rus:'30 июля 2019', comment: 'АИИ'},
 'UCHK__yitkP8WqITpPI7T6ZQ': {date_rus:'17 сентября 2019', comment: 'АИИ'},
+'UCbQp62qVJoL2MwOlN2dUsbA': {date_rus:'8 октября 2018', comment: 'АИИ'},
+'UCmDWaYM3na5hQ7i6p15rt3g': {date_rus:'19 сентября 2019', comment: 'АИИ'},
+'UCVidoUS9t7S_0YtY_ZL5eAQ': {date_rus:'2 мая 2019', comment: 'АИИ'},
+'UCxPQ96ewFF-pE6vkHfF7Zzg': {date_rus:'27 апреля 2019', comment: 'АИИ'},
+'UCt8NqeBw6LCZCiRxqkkqypA': {date_rus:'1 декабря 2015', comment: 'АИИ'},
+'UC-Ptp6-1bqyiiXFx5BUpgxw': {date_rus:'24 сентября 2018', comment: 'АИИ'},
+'UC003Oq6GEcZoycwPusgnC5A': {date_rus:'2 мая 2019', comment: 'АИИ'},
+'UCGxyJWHbdtT-HdPzKMlz1Xw': {date_rus:'24 апреля 2019', comment: 'АИИ'},
+'UCkkf4UbVgrh7QAJ9CfOZsCA': {date_rus:'1 декабря 2015', comment: 'АИИ'},
+'UCFCCZNlcb1VqFlZjwdqMQBQ': {date_rus:'2 мая 2019', comment: 'АИИ'},
+'UCNXq1bveME6UUebJYWcYuYg': {date_rus:'2 мая 2019', comment: 'АИИ'},
 
 
 // биржа 1
