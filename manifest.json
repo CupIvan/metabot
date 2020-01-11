@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "__MSG_name__",
-	"version": "1.4.11",
+	"version": "1.4.12",
 	"author": "CupIvan <mail@cupivan.ru>",
 	"default_locale": "ru",
 	"description": "__MSG_desc__",
