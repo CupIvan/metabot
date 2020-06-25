@@ -4828,5 +4828,16 @@ var BOT_ACCOUNTS = {
 'UCG3gnRCcjUS_0nHQGgIaX7A': {date_rus:'Feb 7, 2019', comment: 'тб'},
 'UCOdI7KqZBvaZN5tmfpNiF7g': {date_rus:'Feb 7, 2019', comment: 'тб'},
 'UClS9XN5EaqIcZqNWkuNoKfg': {date_rus:'Feb 7, 2019', comment: 'тб'},
-
+'UCquiNWSpr-38oVxP7REURgQ': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCC1s1ZDDUdPlJ5cpvLoiBXA': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCiMisamiSDqlS0C5cXqpAyg': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCZttmvUSBYRX-UIahm2hT6w': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UC-z4ZPNhULL65hzxCAnmJbQ': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCBijCpEAVpw30nvxTASui3A': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCX-Jfh4hI2Ia0hp0hkVcGCg': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCcm-H7Z-lot4T44Gn-GOOqw': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCOIztmq6uwx-pSIGnH7S80A': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCm0IvQVyKRbI_AqejQBll7g': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UC0ZfIVuojlnvvrsvzmoIR4A': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
+'UCakVDzoD3bmvsw1uo1zUqzw': {date_rus:'Jyl 25, 2020', comment: 'сэд'},
 }
